@@ -1,6 +1,6 @@
 import ArtiziaLogo from "../Images/logo.png";
 import TitleImage from "../Images/logo-title-light.png";
-import SearchIcon from "../Images/search-Icon.png";
+import SearchIcon from "../Images/Search-Icon.png";
 import MenuIcon from '@mui/icons-material/Menu';
 
 const Header = () => {
