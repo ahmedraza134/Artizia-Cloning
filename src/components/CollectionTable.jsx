@@ -1,7 +1,7 @@
-import TableImageOne from "../Images/tableimg-one.png";
-import TableImageTwo from "../Images/tableimg-two.png";
-import TableImageThree from "../Images/tableimg-three.png";
-import TableImageFour from "../Images/tableimg-four.png";
+import TableImageOne from "../Images/Tableimg-one.png";
+import TableImageTwo from "../Images/Tableimg-two.png";
+import TableImageThree from "../Images/Tableimg-three.png";
+import TableImageFour from "../Images/Tableimg-four.png";
 
 const CollectionTable = () => {
   return (
